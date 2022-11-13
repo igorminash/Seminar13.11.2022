@@ -2,7 +2,7 @@
 int A = int.Parse(Console.ReadLine()!);
 Console.WriteLine("Введите второе число: ");
 int B = int.Parse(Console.ReadLine()!);
-Console.WriteLine("Введите второе число: ");
+Console.WriteLine("Введите третье число: ");
 int C = int.Parse(Console.ReadLine()!);
 
 int max = A;
